@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pernapp/static/css/main.1cdcb395.css",
+    "main.js": "/pernapp/static/js/main.c4c67c2a.js",
+    "index.html": "/pernapp/index.html",
+    "main.1cdcb395.css.map": "/pernapp/static/css/main.1cdcb395.css.map",
+    "main.c4c67c2a.js.map": "/pernapp/static/js/main.c4c67c2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdcb395.css",
+    "static/js/main.c4c67c2a.js"
+  ]
+}

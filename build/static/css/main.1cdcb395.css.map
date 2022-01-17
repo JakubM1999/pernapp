@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1cdcb395.css","mappings":"AAAA,GACE,UAAW,CAEX,kEAA6E,CAD7E,iBAEF","sources":["App.css"],"sourcesContent":["h1 {\n  color:black;\n  text-align: center;\n  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;\n}\n\n\n"],"names":[],"sourceRoot":""}
