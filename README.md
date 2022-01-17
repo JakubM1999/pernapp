@@ -9,7 +9,7 @@
 <p>I really enjoyed to learn about all of these things and I will defenetley play around with it more, because this is so wide concept and you can do so many things with it. Other than that I created this function that if you create new object/document it is vissible on the live site aswell as all of the objects/documents that are in one table.</p>
 <img src="img/docker.png">
 
-<p>If you have any questions or if you want to see live site just connect me on slack.</p>
+<p>If you have any questions or if you want to see live site just conntact me on slack.</p>
 
 <p>I hope that I show everything that was required in skills and knowledge.</p>
 
